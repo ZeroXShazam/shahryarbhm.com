@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "decycle-iot-blockchain",
+      "name": "Decycle",
+      "createdAt": "2025-01-15T00:00:00Z",
+      "url": "https://decycle.io",
+      "description": "IoT-powered smart trash can with automatic waste separation and blockchain rewards. Winner of ETHBucharest 2025.",
       "isFork": false,
       "languages": [
         {
@@ -13,74 +13,8 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Solidity",
+          "iconifyClass": "logos-solidity"
         },
         {
           "name": "JavaScript",
@@ -89,27 +23,149 @@
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "chromamind-bio-interface",
+      "name": "ChromaMind",
+      "createdAt": "2025-01-10T00:00:00Z",
+      "url": "https://chromamind.tech",
+      "description": "Bio-interface device for personalized wellness experiences with NFT collectibles. Winner of ETHGlobal Cannes 2025.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "logos-c-plusplus"
+        },
+        {
+          "name": "Solidity",
+          "iconifyClass": "logos-solidity"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        }
+      ]
+    },
+    {
+      "id": "vector-shipping-monitor",
+      "name": "Vector",
+      "createdAt": "2024-12-20T00:00:00Z",
+      "url": "https://vector.eth",
+      "description": "IoT-powered on-chain shipping monitor with real-time sensor data streaming via Arbitrum.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Solidity",
+          "iconifyClass": "logos-solidity"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "id": "telegramhub-data-vault",
+      "name": "TelegramHub",
+      "createdAt": "2024-11-15T00:00:00Z",
+      "url": "https://telegramhub.eth",
+      "description": "Decentralized data vault with encrypted storage on Avail blockchain. Winner of Avail & Sign Protocol.",
       "isFork": false,
       "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
+        {
+          "name": "Solidity",
+          "iconifyClass": "logos-solidity"
+        },
+        {
+          "name": "Rust",
+          "iconifyClass": "logos-rust"
+        }
+      ]
+    },
+    {
+      "id": "aivs-justice-system",
+      "name": "AiVS",
+      "createdAt": "2024-10-20T00:00:00Z",
+      "url": "https://aivs.eth",
+      "description": "Decentralized justice system with multi-AI agents on EigenLayer. Winner of CDP, Gaia and EigenLayer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Solidity",
+          "iconifyClass": "logos-solidity"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        }
+      ]
+    },
+    {
+      "id": "wenpay-nfc-wallet",
+      "name": "WenPay",
+      "createdAt": "2024-09-15T00:00:00Z",
+      "url": "https://wenpay.eth",
+      "description": "NFC-enabled stablecoin wallet with KYC compliance and secure operations. Winner of Blockscout.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Kotlin",
+          "iconifyClass": "logos-kotlin-icon"
+        },
+        {
+          "name": "Solidity",
+          "iconifyClass": "logos-solidity"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        }
+      ]
+    },
+    {
+      "id": "zking-anonymous-feedback",
+      "name": "ZKing",
+      "createdAt": "2024-08-20T00:00:00Z",
+      "url": "https://zking.eth",
+      "description": "Privacy-preserving review system using Zero-Knowledge Proofs. Winner of Aztec and ENS.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
+        {
+          "name": "Solidity",
+          "iconifyClass": "logos-solidity"
+        },
+        {
+          "name": "Rust",
+          "iconifyClass": "logos-rust"
+        }
+      ]
+    },
+    {
+      "id": "ethwien-platform",
+      "name": "ETHWien Platform",
+      "createdAt": "2024-07-01T00:00:00Z",
+      "url": "https://ethwien.com",
+      "description": "Next.js application for ETHWien including frontend, backend, and Web3 integrations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "TypeScript",
+          "iconifyClass": "logos-typescript-icon"
+        },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"

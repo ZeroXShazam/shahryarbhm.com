@@ -2,29 +2,23 @@
     <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
 </p>
 
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
-<h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
+<h1 align="center"> Shahryar Bahmaei Portfolio 🔥 </h1> 
+<h3 align="center"> Web3 Developer, IoT Engineer, and Blockchain Enthusiast <br /> Building the future of decentralized applications! </h3>
 
 <p align="center">
-  <a href="http://hits.dwyl.com/ashutosh1919/masterPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
   <a href="https://nodejs.org/en/blog/release/v20.11.1"><img alt="NodeJS" src="https://img.shields.io/badge/node-20.11.1-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/10.2.4"><img alt="NPM" src="https://img.shields.io/badge/npm-10.2.4-blueviolet?style=flat-square" /></a>
   <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
-  <a href="https://join.slack.com/t/masterportfolio/shared_invite/zt-g772n1fo-Ns4usanURF8jVb8wk2lRAA"><img alt="Join Slack Channel For Support" src="https://img.shields.io/badge/slack-masterPortfolio-yellow.svg?logo=slack?style=flat-square" /></a>
+  <a href="https://ethereum.org/"><img alt="Ethereum" src="https://img.shields.io/badge/ethereum-627EEA?style=flat-square" /></a>
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
   <br/>
-  <a href="https://app.netlify.com/sites/ashutosh1919portfolio/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abf59f82-3251-4040-b24c-949b86691642/deploy-status?style=flat-square" /></a>
-  <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
-  <a href="http://badges.mit-license.org/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-  <a href="https://github.com/ashutosh1919/masterPortfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
-  <a href="http://badges.mit-license.org/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
-  <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-  <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
+  <a href="https://shahryarbhm.com/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
+  <a href="https://github.com/zeroxshazam"><img alt="GitHub" src="https://img.shields.io/badge/github-zeroxshazam-green?style=flat-square" /></a>
+  <a href="https://www.linkedin.com/in/shahryarbhm/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shahryarbhm-blue?style=flat-square" /></a>
 </p>
-<p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
 <p align="center"> 
-    <a href="https://ashutosh1919.github.io" target="_blank">
+    <a href="https://shahryarbhm.com" target="_blank">
     <img src="images/masterPortfolioThemes.png"></img>
   </a>
 </p>
@@ -34,15 +28,29 @@
 # Sections 📚
 
 ✔️ Summary and About me\
-✔️ Skills \
-✔️ Open Source Projects Connected with Github\
-✔️ Experience\
+✔️ Skills (Backend Engineering, Web3 & Blockchain, IoT & Computer Vision)\
+✔️ Featured Projects (Decycle, ChromaMind, Vector, TelegramHub, AiVS, WenPay, ZKing)\
+✔️ Experience (Delinternet, Offrang, Emigral)\
+✔️ Community & Leadership (ETHWien, Shir Ya Khat)\
 ✔️ Certifications 🏆\
-✔️ Blogs\
 ✔️ Education\
 ✔️ Contact me
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
+To view a live example, **[click here](https://shahryarbhm.com/)**
+
+# About Me 🚀
+
+A problem-solving, caffeine-fueled developer passionate about building scalable APIs, AI powered vision systems and cryptographic protocols. Specialized in backend development, IoT, machine learning and security. While not coding, often enjoying a strong cup of coffee.
+
+## Featured Projects
+
+- **Decycle** - IoT-Powered On-Chain Shipping Monitor (1st Place at ETHBucharest 2025)
+- **ChromaMind** - Bio-Interface for Personalized Wellness (Winner of ETHGlobal Cannes 2025)
+- **Vector** - IoT-Powered On-Chain Shipping Monitor with real-time sensor data streaming
+- **TelegramHub** - Decentralized Data Vault (Winner of Avail & Sign Protocol)
+- **AiVS** - Decentralized Justice System with Multi-AI Agents (Winner of CDP, Gaia and EigenLayer)
+- **WenPay** - NFC-Enabled Stablecoin Wallet (Winner of Blockscout)
+- **ZKing** - Anonymous Feedback System using Zero-Knowledge Proofs (Winner of Aztec and ENS)
 
 # Clone and Use 📋
 
@@ -51,7 +59,7 @@ To view a live example, **[click here](https://ashutosh1919.github.io/)**
 - In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
   ```bash
-   git clone https://github.com/ashutosh1919/masterPortfolio.git
+   git clone https://github.com/zeroxshazam/shahryarbhm.com.git
   ```
   This will clone the whole repository in your system.
 - To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
