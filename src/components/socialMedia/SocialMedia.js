@@ -17,6 +17,10 @@ export default function socialMedia(props) {
   return (
     <div className="social-media-div">
       {socialMediaLinks.map((media, i) => {
+        // Determine icon class: graduation-cap uses 'fas', others use 'fab'
+        const iconClass =
+          media.fontAwesomeIcon === "fa-graduation-cap" ? "fas" : "fab";
+
         return (
           <a
             key={i}
@@ -26,7 +30,7 @@ export default function socialMedia(props) {
             rel="noopener noreferrer"
           >
             <IconWrapper {...media} {...props}>
-              <i className={`fab ${media.fontAwesomeIcon}`}></i>
+              <i className={`${iconClass} ${media.fontAwesomeIcon}`}></i>
             </IconWrapper>
             {/* <span></span> */}
           </a>
